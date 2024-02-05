@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.0.1",
+    "@tailwindcss/line-clamp": "^0.4.4",
     "axios": "^1.6.5",
     "chart.js": "^4.4.1",
     "daisyui": "^4.6.0",
